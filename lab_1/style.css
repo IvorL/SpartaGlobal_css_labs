@@ -1,0 +1,28 @@
+header {
+  background-color: #3F51B5;
+  height: 150px;
+  text-align: center;
+}
+
+main {
+  display: inline-block;
+  width: 75%;
+  text-align: center;
+  background-color: blue;
+}
+
+aside {
+  display: inline-block;
+  vertical-align: top;
+  text-align: center;
+  background-color: yellow;
+  float: right;
+  width: 25%;
+}
+
+footer {
+  background-color: orange;
+  height: 100px;
+  text-align: center;
+  padding: 10px;
+}
